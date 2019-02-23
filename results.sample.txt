@@ -1,0 +1,261 @@
+0000000206900000000000          PRECINCTS COUNTED - TOTAL                               PRECINCTS COUNTED - TOTAL                                      000
+0001001206915817550000          REGISTERED VOTERS - TOTAL                               VOTERS                                                         000
+0002001206900000000000          BALLOTS CAST - TOTAL                                    BALLOTS CAST                                                   000
+0010001206900000100000          Mayor                                                   JERRY JOYCE                           City Of Chicago          001
+0010002206900000050000          Mayor                                                   PAUL VALLAS                           City Of Chicago          001
+0010003206900000000000          Mayor                                                   WILLIE L. WILSON                      City Of Chicago          001
+0010004206900000000000          Mayor                                                   TONI PRECKWINKLE                      City Of Chicago          001
+0010005206900000000000          Mayor                                                   WILLIAM M. DALEY                      City Of Chicago          001
+0010006206900000000000          Mayor                                                   GARRY MCCARTHY                        City Of Chicago          001
+0010007206900000000000          Mayor                                                   GERY CHICO                            City Of Chicago          001
+0010008206900000000000          Mayor                                                   SUSANA A. MENDOZA                     City Of Chicago          001
+0010009206900000000000          Mayor                                                   AMARA ENYIA                           City Of Chicago          001
+0010010206900000000000          Mayor                                                   LA SHAWN K. FORD                      City Of Chicago          001
+0010011206900000000000          Mayor                                                   NEAL SALES-GRIFFIN                    City Of Chicago          001
+0010012206900000000000          Mayor                                                   LORI LIGHTFOOT                        City Of Chicago          001
+0010013206900000000000          Mayor                                                   ROBERT ''BOB'' FIORETTI               City Of Chicago          001
+0010014206900000000000          Mayor                                                   JOHN KENNETH KOZLAR                   City Of Chicago          001
+0011001206900000000000          Clerk                                                   ANNA M. VALENCIA                      City Of Chicago          001
+0012001206900000000000          Treasurer                                               MELISSA CONYEARS-ERVIN                City Of Chicago          001
+0012002206900000000000          Treasurer                                               AMEYA PAWAR                           City Of Chicago          001
+0012003206900000000000          Treasurer                                               PETER GARIEPY                         City Of Chicago          001
+0013001004400000000000          Alderman 1st Ward                                       PROCO ''JOE'' MORENO                  1st Ward                 001
+0013002004400000000000          Alderman 1st Ward                                       DANIEL LA SPATA                       1st Ward                 001
+0014001004600000000000          Alderman 2nd Ward                                       BRIAN HOPKINS                         2nd Ward                 001
+0015001004100000000000          Alderman 3rd Ward                                       PATRICIA ''PAT'' DOWELL               3rd Ward                 001
+0015002004100000000000          Alderman 3rd Ward                                       ALEXANDRIA WILLIS                     3rd Ward                 001
+0016001003800000000000          Alderman 4th Ward                                       SOPHIA KING                           4th Ward                 001
+0016002003800000000000          Alderman 4th Ward                                       EBONY D. LUCAS                        4th Ward                 001
+0017001004100000000000          Alderman 5th Ward                                       LESLIE A. HAIRSTON                    5th Ward                 001
+0017002004100000000000          Alderman 5th Ward                                       WILLIAM CALLOWAY                      5th Ward                 001
+0017003004100000000000          Alderman 5th Ward                                       GABRIEL PIEMONTE                      5th Ward                 001
+0018001004800000000000          Alderman 6th Ward                                       RODERICK T. SAWYER                    6th Ward                 001
+0018002004800000000000          Alderman 6th Ward                                       RICHARD A. WOOTEN                     6th Ward                 001
+0018003004800000000000          Alderman 6th Ward                                       DEBORAH A. FOSTER-BONNER              6th Ward                 001
+0019001004600000000000          Alderman 7th Ward                                       GREGORY I. MITCHELL                   7th Ward                 001
+0019002004600000000000          Alderman 7th Ward                                       CHARLES KYLE                          7th Ward                 001
+0019003004600000000000          Alderman 7th Ward                                       JEDIDIAH L. BROWN                     7th Ward                 001
+0020001005600000000000          Alderman 8th Ward                                       MICHELLE A. HARRIS                    8th Ward                 001
+0020002005600000000000          Alderman 8th Ward                                       JEWEL EASTERLING-SMITH                8th Ward                 001
+0020003005600000000000          Alderman 8th Ward                                       LINDA HUDSON                          8th Ward                 001
+0020004005600000000000          Alderman 8th Ward                                       FAHEEM SHABAZZ                        8th Ward                 001
+0021001005100000000000          Alderman 9th Ward                                       ANTHONY A. BEALE                      9th Ward                 001
+0021002005100000000000          Alderman 9th Ward                                       CLEOPATRA WATSON                      9th Ward                 001
+0021003005100000000000          Alderman 9th Ward                                       PAUL COLLINS                          9th Ward                 001
+0021004005100000000000          Alderman 9th Ward                                       ESSIE HALL                            9th Ward                 001
+0022001003600000000000          Alderman 10th Ward                                      SUSAN SADLOWSKI GARZA                 10th Ward                001
+0022002003600000000000          Alderman 10th Ward                                      ROBERT ''BOBBY'' LONCAR               10th Ward                001
+0023001003800000000000          Alderman 11th Ward                                      PATRICK DALEY THOMPSON                11th Ward                001
+0023002003800000000000          Alderman 11th Ward                                      DAVID MIHALYFY                        11th Ward                001
+0024001002300000000000          Alderman 12th Ward                                      GEORGE CARDENAS                       12th Ward                001
+0024002002300000000000          Alderman 12th Ward                                      PETE DEMAY                            12th Ward                001
+0024003002300000000000          Alderman 12th Ward                                      MARTHA YERANIA RANGEL                 12th Ward                001
+0024004002300000000000          Alderman 12th Ward                                      JOSE RICO                             12th Ward                001
+0025001004800000000000          Alderman 13th Ward                                      MARTY QUINN                           13th Ward                001
+0025002004800000000000          Alderman 13th Ward                                      DAVID J. KRUPA                        13th Ward                001
+0026001003100000000000          Alderman 14th Ward                                      EDWARD M. BURKE                       14th Ward                001
+0026002003100000000000          Alderman 14th Ward                                      JAIME GUZMAN                          14th Ward                001
+0026003003100000000000          Alderman 14th Ward                                      TANYA G. PATINO                       14th Ward                001
+0027001002400000000000          Alderman 15th Ward                                      JOSEPH G. WILLIAMS                    15th Ward                001
+0027002002400000000000          Alderman 15th Ward                                      RAFAEL ''RAFA'' YANEZ                 15th Ward                001
+0027003002400000000000          Alderman 15th Ward                                      RAYMOND A. LOPEZ                      15th Ward                001
+0027004002400000000000          Alderman 15th Ward                                      BERTO AGUAYO                          15th Ward                001
+0027005002400000000000          Alderman 15th Ward                                      OTIS DAVIS, JR.                       15th Ward                001
+0028001003600000000000          Alderman 16th Ward                                      STEPHANIE D. COLEMAN                  16th Ward                001
+0028002003600000000000          Alderman 16th Ward                                      LATASHA M. SANDERS                    16th Ward                001
+0028003003600000000000          Alderman 16th Ward                                      KENNY C. DOSS II                      16th Ward                001
+0028004003600000000000          Alderman 16th Ward                                      TONI L. FOULKES                       16th Ward                001
+0028005003600000000000          Alderman 16th Ward                                      JEFFREY L. LEWIS                      16th Ward                001
+0028006003600000000000          Alderman 16th Ward                                      EDDIE JOHNSON III                     16th Ward                001
+0029001004100000000000          Alderman 17th Ward                                      DAVID H. MOORE                        17th Ward                001
+0029002004100000000000          Alderman 17th Ward                                      RAYNETTA GREENLEAF                    17th Ward                001
+0030001005000000000000          Alderman 18th Ward                                      CHUKS ONYEZIA                         18th Ward                001
+0030002005000000000000          Alderman 18th Ward                                      DERRICK G. CURTIS                     18th Ward                001
+0031001005700000000000          Alderman 19th Ward                                      MATTHEW J. O'SHEA                     19th Ward                001
+0031002005700000000000          Alderman 19th Ward                                      DAVID A. DEWAR                        19th Ward                001
+0032001003900000000000          Alderman 20th Ward                                      JEANETTE B TAYLOR                     20th Ward                001
+0032002003900000000000          Alderman 20th Ward                                      NICOLE J. JOHNSON                     20th Ward                001
+0032003003900000000000          Alderman 20th Ward                                      MAYA HODARI                           20th Ward                001
+0032004003900000000000          Alderman 20th Ward                                      JENNIFER O. MADDOX                    20th Ward                001
+0032005003900000000000          Alderman 20th Ward                                      ANDRE SMITH                           20th Ward                001
+0032006003900000000000          Alderman 20th Ward                                      DERNARD D. NEWELL                     20th Ward                001
+0032007003900000000000          Alderman 20th Ward                                      QUANDRA V. SPEIGHTS                   20th Ward                001
+0032008003900000000000          Alderman 20th Ward                                      KEVIN M. BAILEY                       20th Ward                001
+0032009003900000000000          Alderman 20th Ward                                      ANTHONY DRIVER, JR.                   20th Ward                001
+0033001005400000000000          Alderman 21st Ward                                      HOWARD B. BROOKINS, JR.               21st Ward                001
+0033002005400000000000          Alderman 21st Ward                                      MARVIN MCNEIL                         21st Ward                001
+0033003005400000000000          Alderman 21st Ward                                      PATRICIA A. FOSTER                    21st Ward                001
+0033004005400000000000          Alderman 21st Ward                                      JOSEPH C. ZIEGLER, JR.                21st Ward                001
+0034001002500000000000          Alderman 22nd Ward                                      MICHAEL D. RODRIGUEZ                  22nd Ward                001
+0034002002500000000000          Alderman 22nd Ward                                      LISETTE ''LIZ'' LOPEZ                 22nd Ward                001
+0034003002500000000000          Alderman 22nd Ward                                      RICHARD JUAREZ                        22nd Ward                001
+0034004002500000000000          Alderman 22nd Ward                                      NEFTALIE GONZALEZ                     22nd Ward                001
+0035001003900000000000          Alderman 23rd Ward                                      SILVANA TABARES                       23rd Ward                001
+0035002003900000000000          Alderman 23rd Ward                                      PAULINO VILLARREAL, JR.               23rd Ward                001
+0036001004100000000000          Alderman 24th Ward                                      CREATIVE SCOTT                        24th Ward                001
+0036002004100000000000          Alderman 24th Ward                                      MICHAEL  SCOTT, JR.                   24th Ward                001
+0036003004100000000000          Alderman 24th Ward                                      TORIANO A. SANZONE                    24th Ward                001
+0036004004100000000000          Alderman 24th Ward                                      TRACI JOHNSON                         24th Ward                001
+0037001003200000000000          Alderman 25th Ward                                      HILARIO DOMINGUEZ                     25th Ward                001
+0037002003200000000000          Alderman 25th Ward                                      ALEXANDER ACEVEDO                     25th Ward                001
+0037003003200000000000          Alderman 25th Ward                                      TROY ANTONIO HERNANDEZ                25th Ward                001
+0037004003200000000000          Alderman 25th Ward                                      BYRON SIGCHO-LOPEZ                    25th Ward                001
+0037005003200000000000          Alderman 25th Ward                                      AIDA FLORES                           25th Ward                001
+0038001004900000000000          Alderman 26th Ward                                      THERESA SIAW                          26th Ward                001
+0038002004900000000000          Alderman 26th Ward                                      ROBERTO MALDONADO                     26th Ward                001
+0038003004900000000000          Alderman 26th Ward                                      DAVID HERRERA                         26th Ward                001
+0039001005000000000000          Alderman 27th Ward                                      WALTER BURNETT, JR.                   27th Ward                001
+0039002005000000000000          Alderman 27th Ward                                      CYNTHIA D. BEDNARZ                    27th Ward                001
+0040001004600000000000          Alderman 28th Ward                                      MIGUEL BAUTISTA                       28th Ward                001
+0040002004600000000000          Alderman 28th Ward                                      JASON C. ERVIN                        28th Ward                001
+0040003004600000000000          Alderman 28th Ward                                      JASMINE JACKSON                       28th Ward                001
+0040004004600000000000          Alderman 28th Ward                                      BEVERLY MILES                         28th Ward                001
+0041001004400000000000          Alderman 29th Ward                                      DWAYNE TRUSS                          29th Ward                001
+0041002004400000000000          Alderman 29th Ward                                      CHRIS TALIAFERRO                      29th Ward                001
+0041003004400000000000          Alderman 29th Ward                                      ZERLINA A. SMITH                      29th Ward                001
+0042001003200000000000          Alderman 30th Ward                                      JESSICA W. GUTIERREZ                  30th Ward                001
+0042002003200000000000          Alderman 30th Ward                                      ARIEL E. REBOYRAS                     30th Ward                001
+0042003003200000000000          Alderman 30th Ward                                      EDGAR ''EDEK'' ESPARZA                30th Ward                001
+0043001004100000000000          Alderman 31st Ward                                      COLIN BIRD-MARTINEZ                   31st Ward                001
+0043002004100000000000          Alderman 31st Ward                                      MILAGROS SANTIAGO                     31st Ward                001
+0043003004100000000000          Alderman 31st Ward                                      FELIX CARDONA JR.                     31st Ward                001
+0044001004300000000000          Alderman 32nd Ward                                      SCOTT WAGUESPACK                      32nd Ward                001
+0045001002800000000000          Alderman 33rd Ward                                      KATIE SIERACKI                        33rd Ward                001
+0045002002800000000000          Alderman 33rd Ward                                      R. RODRIGUEZ SANCHEZ                  33rd Ward                001
+0045003002800000000000          Alderman 33rd Ward                                      DEBORAH L. MELL                       33rd Ward                001
+0046001005300000000000          Alderman 34th Ward                                      CARRIE M. AUSTIN                      34th Ward                001
+0046002005300000000000          Alderman 34th Ward                                      PRESTON BROWN JR                      34th Ward                001
+0047001003100000000000          Alderman 35th Ward                                      AMANDA YU DIETERICH                   35th Ward                001
+0047002003100000000000          Alderman 35th Ward                                      CARLOS  RAMIREZ-ROSA                  35th Ward                001
+0048001003000000000000          Alderman 36th Ward                                      GILBERT VILLEGAS                      36th Ward                001
+0049001004100000000000          Alderman 37th Ward                                      EMMA M. MITTS                         37th Ward                001
+0049002004100000000000          Alderman 37th Ward                                      TARA STAMPS                           37th Ward                001
+0049003004100000000000          Alderman 37th Ward                                      DEONDRE RUTUES                        37th Ward                001
+0050001004100000000000          Alderman 38th Ward                                      NICHOLAS SPOSATO                      38th Ward                001
+0051001004500000000000          Alderman 39th Ward                                      ROBERT MURPHY                         39th Ward                001
+0051002004500000000000          Alderman 39th Ward                                      SAMANTHA ''SAM'' NUGENT               39th Ward                001
+0051003004500000000000          Alderman 39th Ward                                      CASEY SMAGALA                         39th Ward                001
+0051004004500000000000          Alderman 39th Ward                                      JOE DUPLECHIN                         39th Ward                001
+0052001003900000000000          Alderman 40th Ward                                      UGO OKERE                             40th Ward                001
+0052002003900000000000          Alderman 40th Ward                                      DIANNE DALEIDEN                       40th Ward                001
+0052003003900000000000          Alderman 40th Ward                                      ANDRÃ‰ VASQUEZ                         40th Ward                001
+0052004003900000000000          Alderman 40th Ward                                      PATRICK J. O'CONNOR                   40th Ward                001
+0052005003900000000000          Alderman 40th Ward                                      MAGGIE O'KEEFE                        40th Ward                001
+0053001004700000000000          Alderman 41st Ward                                      TIM HENEGHAN                          41st Ward                001
+0053002004700000000000          Alderman 41st Ward                                      ANTHONY V. NAPOLITANO                 41st Ward                001
+0054001004200000000000          Alderman 42nd Ward                                      BRENDAN REILLY                        42nd Ward                001
+0055001004600000000000          Alderman 43rd Ward                                      DEREK LINDBLOM                        43rd Ward                001
+0055002004600000000000          Alderman 43rd Ward                                      MICHELE SMITH                         43rd Ward                001
+0055003004600000000000          Alderman 43rd Ward                                      LESLIE FOX                            43rd Ward                001
+0055004004600000000000          Alderman 43rd Ward                                      JACOB RINGER                          43rd Ward                001
+0055005004600000000000          Alderman 43rd Ward                                      STEVEN MCCLELLAN                      43rd Ward                001
+0055006004600000000000          Alderman 43rd Ward                                      REBECCA JANOWITZ                      43rd Ward                001
+0056001004100000000000          Alderman 44th Ward                                      TOM TUNNEY                            44th Ward                001
+0056002004100000000000          Alderman 44th Ward                                      AUSTIN BAIDAS                         44th Ward                001
+0056003004100000000000          Alderman 44th Ward                                      ELIZABETH SHYDLOWSKI                  44th Ward                001
+0057001004800000000000          Alderman 45th Ward                                      MARILYN MORALES                       45th Ward                001
+0057002004800000000000          Alderman 45th Ward                                      JOHN S. ARENA                         45th Ward                001
+0057003004800000000000          Alderman 45th Ward                                      JAMES ''JIM'' GARDINER                45th Ward                001
+0057004004800000000000          Alderman 45th Ward                                      ROBERT A. BANK                        45th Ward                001
+0058001004000000000000          Alderman 46th Ward                                      MARIANNE LALONDE                      46th Ward                001
+0058002004000000000000          Alderman 46th Ward                                      ERIKA WOZNIAK FRANCIS                 46th Ward                001
+0058003004000000000000          Alderman 46th Ward                                      JUSTIN KREINDLER                      46th Ward                001
+0058004004000000000000          Alderman 46th Ward                                      JAMES CAPPLEMAN                       46th Ward                001
+0058005004000000000000          Alderman 46th Ward                                      ANGELA CLAY                           46th Ward                001
+0058006004000000000000          Alderman 46th Ward                                      JON-ROBERT MCDOWELL                   46th Ward                001
+0059001004800000000000          Alderman 47th Ward                                      EILEEN DORDEK                         47th Ward                001
+0059002004800000000000          Alderman 47th Ward                                      ANGELA ''ANGIE'' MALONEY              47th Ward                001
+0059003004800000000000          Alderman 47th Ward                                      HEATHER WAY KITZES                    47th Ward                001
+0059004004800000000000          Alderman 47th Ward                                      MICHAEL A. NEGRON                     47th Ward                001
+0059005004800000000000          Alderman 47th Ward                                      MATT MARTIN                           47th Ward                001
+0059006004800000000000          Alderman 47th Ward                                      GUS KATSAFAROS                        47th Ward                001
+0059007004800000000000          Alderman 47th Ward                                      THOMAS M. SCHWARTZERS                 47th Ward                001
+0059008004800000000000          Alderman 47th Ward                                      KIMBALL LADIEN                        47th Ward                001
+0059009004800000000000          Alderman 47th Ward                                      JEFF JENKINS                          47th Ward                001
+0060001004600000000000          Alderman 48th Ward                                      HARRY OSTERMAN                        48th Ward                001
+0060002004600000000000          Alderman 48th Ward                                      DAVID EARL WILLIAMS III               48th Ward                001
+0061001003300000000000          Alderman 49th Ward                                      JOE MOORE                             49th Ward                001
+0061002003300000000000          Alderman 49th Ward                                      MARIA HADDEN                          49th Ward                001
+0062001004000000000000          Alderman 50th Ward                                      DEBRA L. SILVERSTEIN                  50th Ward                001
+0062002004000000000000          Alderman 50th Ward                                      ANDREW D ROWLAS                       50th Ward                001
+0062003004000000000000          Alderman 50th Ward                                      ZEHRA QUADRI                          50th Ward                001
+0063001000100000000000          Rent control-W01P01                                     Yes                                   Rent control-W01P01      001
+0063002000100000000000          Rent control-W01P01                                     No                                    Rent control-W01P01      001
+0064001000100000000000          Rent control-W01P17                                     Yes                                   Rent control-W01P17      001
+0064002000100000000000          Rent control-W01P17                                     No                                    Rent control-W01P17      001
+0065001000100000000000          Rent control-W01P20                                     Yes                                   Rent control-W01P20      001
+0065002000100000000000          Rent control-W01P20                                     No                                    Rent control-W01P20      001
+0066001000100000000000          Rent control-W01P24                                     Yes                                   Rent control-W01P24      001
+0066002000100000000000          Rent control-W01P24                                     No                                    Rent control-W01P24      001
+0067001000100000000000          Rent control-W01P26                                     Yes                                   Rent control-W01P26      001
+0067002000100000000000          Rent control-W01P26                                     No                                    Rent control-W01P26      001
+0068001000100000000000          Rent control-W01P30                                     Yes                                   Rent control-W01P30      001
+0068002000100000000000          Rent control-W01P30                                     No                                    Rent control-W01P30      001
+0069001000100000000000          CBA ordinance-W05P05                                    Yes                                   CBA ordinance-W05P05     001
+0069002000100000000000          CBA ordinance-W05P05                                    No                                    CBA ordinance-W05P05     001
+0070001000100000000000          Marijuana funds-W06P05                                  Yes                                   Marijuana funds-W06P05   001
+0070002000100000000000          Marijuana funds-W06P05                                  No                                    Marijuana funds-W06P05   001
+0071001000100000000000          Marijuana funds-W06P23                                  Yes                                   Marijuana funds-W06P23   001
+0071002000100000000000          Marijuana funds-W06P23                                  No                                    Marijuana funds-W06P23   001
+0072001000100000000000          Marijuana funds-W06P26                                  Yes                                   Marijuana funds-W06P26   001
+0072002000100000000000          Marijuana funds-W06P26                                  No                                    Marijuana funds-W06P26   001
+0073001000100000000000          CBA ordinance-W12P15                                    Yes                                   CBA ordinance-W12P15     001
+0073002000100000000000          CBA ordinance-W12P15                                    No                                    CBA ordinance-W12P15     001
+0074001000100000000000          CBA ordinance-W12P18                                    Yes                                   CBA ordinance-W12P18     001
+0074002000100000000000          CBA ordinance-W12P18                                    No                                    CBA ordinance-W12P18     001
+0075001000100000000000          Marijuana funds-W16P33                                  Yes                                   Marijuana funds-W16P33   001
+0075002000100000000000          Marijuana funds-W16P33                                  No                                    Marijuana funds-W16P33   001
+0076001004100000000000          Marijuana funds-W17                                     Yes                                   Marijuana funds-W17      001
+0076002004100000000000          Marijuana funds-W17                                     No                                    Marijuana funds-W17      001
+0077001000100000000000          CBA ordinance-W20P01                                    Yes                                   CBA ordinance-W20P01     001
+0077002000100000000000          CBA ordinance-W20P01                                    No                                    CBA ordinance-W20P01     001
+0078001000100000000000          CBA ordinance-W20P22                                    Yes                                   CBA ordinance-W20P22     001
+0078002000100000000000          CBA ordinance-W20P22                                    No                                    CBA ordinance-W20P22     001
+0079001000100000000000          CBA ordinance-W20P23                                    Yes                                   CBA ordinance-W20P23     001
+0079002000100000000000          CBA ordinance-W20P23                                    No                                    CBA ordinance-W20P23     001
+0080001000100000000000          CBA ordinance-W22P15                                    Yes                                   CBA ordinance-W22P15     001
+0080002000100000000000          CBA ordinance-W22P15                                    No                                    CBA ordinance-W22P15     001
+0081001000100000000000          Marijuana funds-W24P05                                  Yes                                   Marijuana funds-W24P05   001
+0081002000100000000000          Marijuana funds-W24P05                                  No                                    Marijuana funds-W24P05   001
+0082001000100000000000          Marijuana funds-W24P20                                  Yes                                   Marijuana funds-W24P20   001
+0082002000100000000000          Marijuana funds-W24P20                                  No                                    Marijuana funds-W24P20   001
+0083001000100000000000          Marijuana funds-W24P30                                  Yes                                   Marijuana funds-W24P30   001
+0083002000100000000000          Marijuana funds-W24P30                                  No                                    Marijuana funds-W24P30   001
+0084001000200000000000          CBA ordinance-W25                                       Yes                                   CBA ordinance-W25        001
+0084002000200000000000          CBA ordinance-W25                                       No                                    CBA ordinance-W25        001
+0085001000100000000000          Rent control-W26P02                                     Yes                                   Rent control-W26P02      001
+0085002000100000000000          Rent control-W26P02                                     No                                    Rent control-W26P02      001
+0086001000100000000000          Rent control-W26P06                                     Yes                                   Rent control-W26P06      001
+0086002000100000000000          Rent control-W26P06                                     No                                    Rent control-W26P06      001
+0087001000100000000000          Rent control-W26P08                                     Yes                                   Rent control-W26P08      001
+0087002000100000000000          Rent control-W26P08                                     No                                    Rent control-W26P08      001
+0088001000100000000000          Rent control-W26P09                                     Yes                                   Rent control-W26P09      001
+0088002000100000000000          Rent control-W26P09                                     No                                    Rent control-W26P09      001
+0089001000100000000000          Rent control-W26P12                                     Yes                                   Rent control-W26P12      001
+0089002000100000000000          Rent control-W26P12                                     No                                    Rent control-W26P12      001
+0090001000100000000000          Rent control-W26P24                                     Yes                                   Rent control-W26P24      001
+0090002000100000000000          Rent control-W26P24                                     No                                    Rent control-W26P24      001
+0091001000100000000000          Rent control-W26P40                                     Yes                                   Rent control-W26P40      001
+0091002000100000000000          Rent control-W26P40                                     No                                    Rent control-W26P40      001
+0092001004600000000000          Marijuana funds-W28                                     Yes                                   Marijuana funds-W28      001
+0092002004600000000000          Marijuana funds-W28                                     No                                    Marijuana funds-W28      001
+0093001000100000000000          Marijuana funds-W29P02                                  Yes                                   Marijuana funds-W29P02   001
+0093002000100000000000          Marijuana funds-W29P02                                  No                                    Marijuana funds-W29P02   001
+0094001000100000000000          Marijuana funds-W29P03                                  Yes                                   Marijuana funds-W29P03   001
+0094002000100000000000          Marijuana funds-W29P03                                  No                                    Marijuana funds-W29P03   001
+0095001000100000000000          Marijuana funds-W29P16                                  Yes                                   Marijuana funds-W29P16   001
+0095002000100000000000          Marijuana funds-W29P16                                  No                                    Marijuana funds-W29P16   001
+0096001000100000000000          Marijuana funds-W29P26                                  Yes                                   Marijuana funds-W29P26   001
+0096002000100000000000          Marijuana funds-W29P26                                  No                                    Marijuana funds-W29P26   001
+0097001000100000000000          Marijuana funds-W29P28                                  Yes                                   Marijuana funds-W29P28   001
+0097002000100000000000          Marijuana funds-W29P28                                  No                                    Marijuana funds-W29P28   001
+0098001000100000000000          Rent control-W45P11                                     Yes                                   Rent control-W45P11      001
+0098002000100000000000          Rent control-W45P11                                     No                                    Rent control-W45P11      001
+0099001000100000000000          Rent control-W45P15                                     Yes                                   Rent control-W45P15      001
+0099002000100000000000          Rent control-W45P15                                     No                                    Rent control-W45P15      001
+0100001000100000000000          Rent control-W45P17                                     Yes                                   Rent control-W45P17      001
+0100002000100000000000          Rent control-W45P17                                     No                                    Rent control-W45P17      001
+0101001000100000000000          Rent control-W50P08                                     Yes                                   Rent control-W50P08      001
+0101002000100000000000          Rent control-W50P08                                     No                                    Rent control-W50P08      001
+0102001000100000000000          Rent control-W50P13                                     Yes                                   Rent control-W50P13      001
+0102002000100000000000          Rent control-W50P13                                     No                                    Rent control-W50P13      001

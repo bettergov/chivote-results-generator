@@ -1,0 +1,4 @@
+results.*
+!results.sample.*
+.venv
+.vscode
