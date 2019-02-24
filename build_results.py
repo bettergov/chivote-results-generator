@@ -1,18 +1,36 @@
 #!/usr/bin/env python
 import json
 import os
+import re
 import pandas as pd
 import numpy as np
+from decouple import config
 
-LAYOUT_PATH = 'layout.txt'
-RESULTS_PATH = 'results.txt'
-JSON_PATH = 'results.json'
+
+def _str2list(str_in):
+    # remove opening and closing brackets
+    str_out = re.sub(r"(^\[|\]$)", "", str_in)
+    # transform into a map of stripped strings
+    map_out = map(str.strip, str_out.split(','))
+    map_out = map(
+        lambda x: re.sub(r"(^[\'\"]|[\'\"]$)", "", x),
+        map_out
+    )
+
+    return list(map_out)
+
+
+# file locations
+LAYOUT_PATH = config('LAYOUT_PATH', default='layout.txt')
+RESULTS_PATH = config('RESULTS_PATH', default='results.txt')
+JSON_PATH = config('JSON_PATH', default='results.json')
 
 MAX_CONTEST_CODE = '0062'
-CONTEST_COLS = ['Contest name', '# Completed precincts',
-                '# of Eligible Precincts', 'Total votes']
-CAND_COLS = ['Candidate Name', 'Votes', '% of Votes']
-CAND_CLASSES = ['', 'amt', 'amt']
+
+# table structure
+CONTEST_COLS = config('CONTEST_COLS', cast=_str2list)
+CAND_COLS = config('CAND_COLS', cast=_str2list)
+CAND_CLASSES = config('CAND_CLASSES', cast=_str2list)
 
 # disable pandas 'chained assignment' warning
 pd.options.mode.chained_assignment = None
@@ -140,7 +158,7 @@ def build_contests(df):
         if ('Votes' in CAND_COLS
                 and ('Total votes' in CONTEST_COLS
                      or '% of Votes' in CAND_COLS)
-                ):
+            ):
             total_votes = cands['Votes'].sum()
             meta['Total votes'] = total_votes
             cands['% of Votes'] = cands['Votes'].apply(

@@ -3,3 +3,4 @@ results.*
 .venv
 .vscode
 .python-version
+.env
