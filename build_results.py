@@ -12,6 +12,7 @@ MAX_CONTEST_CODE = '0062'
 CONTEST_COLS = ['Contest name', '# Completed precincts',
                 '# of Eligible Precincts', 'Total votes']
 CAND_COLS = ['Candidate Name', 'Votes', '% of Votes']
+CAND_CLASSES = ['', 'amt', 'amt']
 
 # disable pandas 'chained assignment' warning
 pd.options.mode.chained_assignment = None
@@ -175,6 +176,7 @@ def create_transformed_results_dict(results_df):
     results = {
         "contest_headers": CONTEST_COLS,
         "cand_headers": CAND_COLS,
+        "cand_classes": CAND_CLASSES,
         "datetime": d.replace(microsecond=0).isoformat(),
         'timestamp': int(d.replace(microsecond=0).timestamp()),
         "contests": build_contests(results_df)

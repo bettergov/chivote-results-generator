@@ -2,3 +2,4 @@ results.*
 !results.sample.*
 .venv
 .vscode
+.python-version
