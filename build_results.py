@@ -1,7 +1,12 @@
 #!/usr/bin/env python
+import json
+import os
 import pandas as pd
 import numpy as np
-import json
+
+LAYOUT_PATH = 'layout.txt'
+RESULTS_PATH = 'results.txt'
+JSON_PATH = 'results.json'
 
 MAX_CONTEST_CODE = '0062'
 CONTEST_COLS = ['Contest name', '# Completed precincts',
@@ -14,16 +19,17 @@ pd.options.mode.chained_assignment = None
 
 def main():
     '''
-    Transforms CBOE election results into Chi.vote style JSON results 
+    Transforms CBOE election results into Chi.vote style JSON results
     '''
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
     # get layout dataframe
-    LAYOUT_PATH = './layout.txt'
-    layout_df = create_layout_df(LAYOUT_PATH)
+    layout_abs_path = os.path.join(BASE_DIR, LAYOUT_PATH)
+    layout_df = create_layout_df(layout_abs_path)
 
     # get results dataframe
-    RESULTS_PATH = './results.txt'
-    results_df = create_results_df(RESULTS_PATH, layout_df)
+    results_abs_path = os.path.join(BASE_DIR, RESULTS_PATH)
+    results_df = create_results_df(results_abs_path, layout_df)
 
     # filter results down to candidate races only
     mask = results_df['Contest Code'] <= MAX_CONTEST_CODE
@@ -38,14 +44,14 @@ def main():
     results_dict = create_transformed_results_dict(results_df)
 
     # write results dict to json
-    JSON_PATH = './results.json'
-    with open(JSON_PATH, 'w') as outfile:
+    json_abs_path = os.path.join(BASE_DIR, JSON_PATH)
+    with open(json_abs_path, 'w') as outfile:
         json.dump(results_dict, outfile, cls=MyEncoder)
 
     # write results dict again to timestamped filepath
     # TODO: we should write to both files without also processing it twice
     timestamp = results_dict['timestamp']
-    timestamped_path = f'{JSON_PATH[:-5]}.{timestamp}.json'
+    timestamped_path = f'{json_abs_path[:-5]}.{timestamp}.json'
     with open(timestamped_path, 'w') as outfile:
         json.dump(results_dict, outfile, cls=MyEncoder)
 
@@ -56,7 +62,8 @@ def create_layout_df(filepath):
     '''
     layout_df = pd.read_csv(filepath, sep='\t+', engine='python')
 
-    # generate colspecs tuples, per https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.read_fwf.html
+    # generate colspecs tuples, per
+    # https://pandas.pydata.org/pandas-docs/version/0.22/generated/pandas.read_fwf.html
     layout_df['colspecs'] = layout_df['Column Position'].apply(
         lambda x: (int(x.split('-')[0]) - 1, int(x.split('-')[1]))
     )
@@ -130,8 +137,8 @@ def build_contests(df):
 
         # calculate pct values
         if ('Votes' in CAND_COLS
-                    and ('Total votes' in CONTEST_COLS
-                         or '% of Votes' in CAND_COLS)
+                and ('Total votes' in CONTEST_COLS
+                     or '% of Votes' in CAND_COLS)
                 ):
             total_votes = cands['Votes'].sum()
             meta['Total votes'] = total_votes
@@ -178,7 +185,7 @@ def create_transformed_results_dict(results_df):
 
 class MyEncoder(json.JSONEncoder):
     """
-    We have to use a custom encoder because pandas uses special numpy 
+    We have to use a custom encoder because pandas uses special numpy
     object types that json doesn't like.
 
     Source: https://stackoverflow.com/a/27050186
